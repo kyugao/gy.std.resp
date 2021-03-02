@@ -1,3 +1,3 @@
-module github.com/kyugao/stdresp
+module github.com/kyugao/std.resp
 
 go 1.14
